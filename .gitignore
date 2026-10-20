@@ -1,0 +1,11 @@
+# Xcode per-user state and build output
+xcuserdata/
+*.xcuserstate
+DerivedData/
+build/
+
+# Generated per machine by xcode-build-server (contains absolute local paths)
+buildServer.json
+
+# macOS
+.DS_Store
